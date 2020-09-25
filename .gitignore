@@ -1,5 +1,7 @@
+nbproject/
 vendor/
 var/
 *.lock
 !composer.lock
 !symfony.lock
+/nbproject/private/
